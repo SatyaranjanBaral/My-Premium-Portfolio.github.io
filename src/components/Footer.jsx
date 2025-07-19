@@ -14,9 +14,9 @@ const Footer = () => {
           </p>
           <div className="flex gap-4 mt-6 text-xl">
             <a href="https://github.com/SatyaranjanBaral/" className="hover:text-green-500"><FaGithub /></a>
-            <a href="https://www.linkedin.com/in/satyaranjan-baral-2b7015372/" className="hover:text-green-500"><FaLinkedin /></a>
-            <a href="#" className="hover:text-green-500"><FaTwitter /></a>
-            <a href="#" className="hover:text-green-500"><FaDev /></a>
+            <a href="https://www.linkedin.com/in/satyaranjan-baral-2b7015372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" className="hover:text-green-500"><FaLinkedin /></a>
+            <a href="" className="hover:text-green-500"><FaTwitter /></a>
+            <a href="" className="hover:text-green-500"><FaDev /></a>
           </div>
         </div>
 

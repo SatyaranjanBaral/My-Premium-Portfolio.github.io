@@ -88,8 +88,8 @@ const Hero = () => {
           </div>
 
           <div className="flex gap-5 text-yellow-500 mt-5 animate-fadeUp">
-            <a href="https://github.com/" target="_blank" rel="noreferrer"><FaGithub size={24} /></a>
-            <a href="https://linkedin.com/" target="_blank" rel="noreferrer"><FaLinkedin size={24} /></a>
+            <a href="https://github.com/SatyaranjanBaral/" target="_blank" rel="noreferrer"><FaGithub size={24} /></a>
+            <a href="https://www.linkedin.com/in/satyaranjan-baral-2b7015372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer"><FaLinkedin size={24} /></a>
             <a href="mailto:satyaranjanbaral@gmail.com"><FaEnvelope size={24} /></a>
           </div>
         </div>

@@ -103,7 +103,7 @@ const Contact = () => {
           <h2 className="text-2xl font-semibold mb-4">Connect with Me</h2>
           <div className="flex items-center gap-6 text-2xl">
             <a href="https://github.com/SatyaranjanBaral/" target="_blank" className="hover:text-green-500"><FaGithub /></a>
-            <a href="https://www.linkedin.com/in/satyaranjan-baral-2b7015372/" target="_blank" className="hover:text-green-500"><FaLinkedin /></a>
+            <a href="https://www.linkedin.com/in/satyaranjan-baral-2b7015372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" className="hover:text-green-500"><FaLinkedin /></a>
             <a href="#" className="hover:text-green-500"><FaTwitter /></a>
             <a href="#" className="hover:text-green-500"><FaDev /></a>
           </div>

@@ -5,25 +5,25 @@ const projects = [
     title: "Portfolio Website",
     description: "A fully responsive personal portfolio showcasing my work and skills.",
     img: "/project1.png", // update with correct path
-    link: "https://super-yeot-02d655.netlify.app/",
+    link: "https://my-old-port.netlify.app/",
   },
   {
     title: "Swiggy Clone",
     description: "A Swiggy-style food ordering UI clone built with responsive features.",
     img: "/project2.jpg",
-    link: "https://vocal-souffle-8fae3f.netlify.app/",
+    link: "https://swiggy-food-webclone.netlify.app/",
   },
   {
     title: "Tic Tac Toe",
     description: "A fun two-player Tic Tac Toe game built using HTML, CSS, and JS.",
     img: "/project3.png",
-    link: "https://taupe-sundae-c6e978.netlify.app/",
+    link: "https://tic-tac-webclone.netlify.app/",
   },
   {
     title: "Weather App",
     description: "A weather forecast app built with live API integration and responsive design.",
     img: "/project4.png",
-    link: "https://chipper-crepe-cad1ce.netlify.app/",
+    link: "https://wea-clone.netlify.app//",
   },
 ];
 
